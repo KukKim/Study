@@ -2,13 +2,13 @@
 # 2. JSX
 
 
-### 1. What is JSX?
+### 1. What is JSX(Javascript XML)?
 It is called JSX, and it is a syntax extension to JavaScript. 
 
 
 ***
-#### Keywords
-- s
+<!-- #### Keywords
+- s -->
 
 #### Reference
 - https://reactjs.org/docs/introducing-jsx.html
